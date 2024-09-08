@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aayuk_5183" target="blank"><img src="https://img.shields.io/twitter/follow/aayuk_5183?logo=twitter&style=for-the-badge" alt="aayuk_5183" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS **
+- 🌱 I’m currently learning **NextJS**
 
 - 📫 How to reach me **ayushprokashyap@gmail.com**
 
