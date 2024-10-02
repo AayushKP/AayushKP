@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="380" src="https://i.postimg.cc/Kj0kHcRr/Make-your-README.png"  />
-</div>
 
 ###
 
