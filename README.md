@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">📫 How to reach me ayushprokashyap@gmail.com<br><br>⚡ Fun fact I love music !</p>
+<p align="left">📫 How to reach me ayushprokashyap@gmail.com<br><br>⚡ Fun fact I love music </p>
 
 ###
 
