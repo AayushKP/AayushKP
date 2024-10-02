@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning NextJS<br><br>📫 How to reach me ayushprokashyap@gmail.com<br><br>⚡ Fun fact I love trying new things !</p>
+<p align="left">📫 How to reach me ayushprokashyap@gmail.com<br><br>⚡ Fun fact I love music !</p>
 
 ###
 
