@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Next.js<br>💬 Ask me about Web development<br>⚡ Fun fact I love trying new things
+🌱 I’m currently learning Next.js<br><br>💬 Ask me about Web development<br><br>⚡ Fun fact I love trying new things
 
 
 ## 🌐 Socials:
