@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 - 🧑‍💻  I’m currently learning Next.js
 - 💬 Ask me about Web development
 - ⚡ Fun fact I love trying new things
