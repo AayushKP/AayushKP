@@ -1,5 +1,5 @@
-# About Me:
-- 🧑‍💻  I’m currently learning Next.js
+# Hi ! This is Aayush Kashyap
+- 🧑‍💻 I’m currently learning Next.js
 - 💬 Ask me about Web development
 - ⚡ Fun fact I love trying new things
 
