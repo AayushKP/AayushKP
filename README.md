@@ -1,5 +1,5 @@
 # Hi ! This is Aayush Kashyap
-- 🧑‍💻 I’m currently learning Apache Kafka
+- 🧑‍💻 I’m currently learning ML
 - 💬 Ask me about Web development
 - ⚡ Fun fact I love trying new things
 
