@@ -1,6 +1,4 @@
-Hi ! This is Aayush Kashyap. I write code 
-
-Technical Writing
+Hi ! This is Aayush Kashyap. I solve problems, write code and blogs sometimes :)
 
 [Making My App Faster and Scalable: What I Learned About Redis](https://medium.com/@kashyaap.a/making-my-app-faster-and-scalable-what-i-learned-about-redis-ac1256b8a68f) ↗
 
