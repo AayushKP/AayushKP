@@ -2,8 +2,6 @@ Hi ! This is Aayush Kashyap. I solve problems, write code and blogs sometimes :)
 
 check out: www.kashyaap.dev
 
-Building https://profiled.site
-
 ### Writings:
 
 [Neurons & Neural Networks!](https://medium.com/@kashyaap.a/neurons-neural-networks-efce5252b66a)
