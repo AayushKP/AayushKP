@@ -4,12 +4,8 @@ check out: www.kashyaap.dev
 
 ### Writings:
 
-[Neurons & Neural Networks!](https://medium.com/@kashyaap.a/neurons-neural-networks-efce5252b66a)
-
-[How the JavaScript Engine Works?](https://medium.com/@kashyaap.a/how-the-javascript-engine-works-c56e9536d808)
-
-[Behind the Scenes of JavaScript Asynch...](https://medium.com/@kashyaap.a/behind-the-scenes-of-javascript-asynchronous-magic-b257a74c5bb5)
-
-[Making My App Faster and Scalable: Redis](https://medium.com/@kashyaap.a/making-my-app-faster-and-scalable-what-i-learned-about-redis-ac1256b8a68f)
-
-[A Deep Dive into the Transformer Architecture](https://medium.com/@kashyaap.a/a-deep-dive-into-the-transformer-architecture-714fec96f6b1?sharedUserId=kashyaap.a) - Latest One!
+[ Neurons & Neural Networks](https://medium.com/@kashyaap.a/neurons-neural-networks-efce5252b66a) &nbsp; 
+[ How the JavaScript Engine Works](https://medium.com/@kashyaap.a/how-the-javascript-engine-works-c56e9536d808) &nbsp; 
+[ Behind the Scenes of JavaScript Asynchronous Magic](https://medium.com/@kashyaap.a/behind-the-scenes-of-javascript-asynchronous-magic-b257a74c5bb5) &nbsp;
+[ Making My App Faster and Scalable: Redis](https://medium.com/@kashyaap.a/making-my-app-faster-and-scalable-what-i-learned-about-redis-ac1256b8a68f) &nbsp; 
+[ A Deep Dive into the Transformer Architecture](https://medium.com/@kashyaap.a/a-deep-dive-into-the-transformer-architecture-714fec96f6b1?sharedUserId=kashyaap.a) ⭐ **Latest**
