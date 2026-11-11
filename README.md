@@ -1,11 +1,6 @@
 Hi ! This is Aayush Kashyap. I solve problems, write code and blogs sometimes :) 
 
-check out: www.kashyaap.dev
+check out: www.kashyaap.tech
 
-### Writings:
+## Blogs: [Check out all my blogs](https://kashyaap69.vercel.app/blog)
 
-[ Neurons & Neural Networks](https://medium.com/@kashyaap.a/neurons-neural-networks-efce5252b66a) &nbsp; 
-[ How the JavaScript Engine Works](https://medium.com/@kashyaap.a/how-the-javascript-engine-works-c56e9536d808) &nbsp; 
-[ Behind the Scenes of JavaScript Asynchronous Magic](https://medium.com/@kashyaap.a/behind-the-scenes-of-javascript-asynchronous-magic-b257a74c5bb5) &nbsp;
-[ Making My App Faster and Scalable: Redis](https://medium.com/@kashyaap.a/making-my-app-faster-and-scalable-what-i-learned-about-redis-ac1256b8a68f) &nbsp; 
-[ A Deep Dive into the Transformer Architecture](https://medium.com/@kashyaap.a/a-deep-dive-into-the-transformer-architecture-714fec96f6b1?sharedUserId=kashyaap.a) ⭐ **Latest**
